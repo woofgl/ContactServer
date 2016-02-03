@@ -1,0 +1,19 @@
+{
+  "name": "ContactsServer",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "^2.0.1",
+    "fs": "0.0.2",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.0.3",
+    "hbsp": "^0.1.0",
+    "path": "^0.11.14",
+    "vdev": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
